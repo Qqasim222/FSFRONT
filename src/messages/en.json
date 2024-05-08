@@ -1,0 +1,707 @@
+{
+  "login": {
+    "login": "Login",
+    "loginForm": "Login form",
+    "foodSwitch": "FoodSwitch",
+    "enterYourEmail": "Enter your email",
+    "enterYourPassword": "Enter your password",
+    "forgotYourPassword": "Forgot your password",
+    "someThingWrong": "Something Went Wrong",
+    "emailRequired": "Email is a required field",
+    "invalidEmail": "Email must be a valid email",
+    "passwordRequired": "Password is a required field"
+  },
+  "forgotPassword": {
+    "foodSwitch": "FoodSwitch",
+    "forgotPassword": "Forgot Password",
+    "enterYourEmail": "Enter your email",
+    "goBackToLogin": "Go back to login",
+    "verify": "Verify",
+    "someThingWrong": "Something Went Wrong",
+    "emailRequired": "Email is a required field",
+    "invalidEmail": "Email must be a valid email"
+  },
+  "resetPassword": {
+    "foodSwitch": "FoodSwitch",
+    "resetPassword": "Reset Password",
+    "enterYourPassword": "Enter your password",
+    "confirmYourPassword": "Confirm your password",
+    "goBackToLogin": "Go back to login",
+    "reset": "Reset",
+    "someThingWrong": "Something Went Wrong",
+    "passwordRequired": "Password is a required field",
+    "confirmPasswordRequired": "Confirm Password is required",
+    "mustMatch": "Password must match",
+    "mustContain": "Must Contain 8 Characters, One Uppercase, One Lowercase, and One Number"
+  },
+  "errorPage": {
+    "someThingWentWrong": "Oops! Something went wrong",
+    "errorHeading": "We apologize for the inconvenience. Please try again.",
+    "tryAgain": "Try again"
+  },
+  "sideBar": {
+    "food": "Food",
+    "switch": "Switch",
+    "dashboard": "Dashboard",
+    "collections": "Collections",
+    "userManagement": "User Management",
+    "users": "Users",
+    "products": "Products",
+    "exports": "Exports",
+    "editProfile": "Edit Profile",
+    "language": "Language",
+    "settings": "Settings",
+    "search": "Search",
+    "someThingWrong": "Something Went Wrong",
+    "logout": "Logout",
+    "logoutMessage": "Logged Out Successfully!"
+  },
+  "appBar": {
+    "profile": "Profile",
+    "logout": "Logout",
+    "dashboard": "Dashboard",
+    "collections": "Collections",
+    "users": "Users",
+    "products": "Products",
+    "exports": "Exports",
+    "settings": "Settings",
+    "search": "Search",
+    "logoutMessage": "Logged Out Successfully!",
+    "someThingWrong": "Something Went Wrong"
+  },
+  "placholders": {
+    "noResultFound": {
+      "heading": "Whoops, no data!",
+      "paragaraph1": "We couldn't find any results.",
+      "paragaraph2": "Give it another go"
+    },
+    "collectionCountSection": {
+      "manageYourCollections": "Manage your collections",
+      "yourCollection": "Your collection has been set up and is waiting to be finalised"
+    },
+    "myTeamSection": {
+      "startCreating": "Start creating user account for your team members",
+      "manageTeam": "Manage team"
+    }
+  },
+  "tablePagination": {
+    "showingPage": "Showing Page",
+    "of": "of",
+    "prev": "Prev",
+    "next": "Next"
+  },
+  "dashBoard": {
+    "someThingWrong": "Something Went Wrong",
+    "australiaCollection": "Australia Collection 2023",
+    "manageYourCollection": "Manage your collection",
+    "yourCollection": "Your collection has been set up and is waiting to be finalised",
+    "myTeam": "My Team",
+    "startCreating": "Start creating user account for your team members",
+    "manageTeam": "Manage team",
+    "searchHeading": "Search",
+    "loremIpsum": "Lorem ipsum dolor sit amet consectetur. Duis dictum lobortis tellus et rhoncus et non lorem. Elit id etiam sagittis vehicula ultrices vel morbi amet venenatis.",
+    "enterKeyword": "Enter keyword",
+    "search": "Search",
+    "unprocessed": "Unprocessed",
+    "review": "Review",
+    "rejected": "Rejected",
+    "approved": "Approved",
+    "goToCollection": "Go to collection",
+    "products": "Products",
+    "viewAll": "View all"
+  },
+  "popups": {
+    "confirmLogout": "Are you sure you want to logout?",
+    "confirmDeleteMessage": "Are you sure you want to delete this item?",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "exportName": {
+      "submit": "Submit",
+      "cancel": "Cancel",
+      "name": "Name",
+      "namePlaceholder": "Enter export name",
+      "confirmExportName": "Enter export name",
+      "validation": {
+        "nameRequired": "Name is required",
+        "nameSpecialCharactersNotAllowed": "Special characters not allowed"
+      }
+    }
+  },
+  "editProfile": {
+    "editProfile": "Edit Profile",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "mobile": "Mobile",
+    "role": "Role",
+    "password": "Password",
+    "retypePassword": "Re-type Password",
+    "status": "Status",
+    "choose": "Choose",
+    "active": "Active",
+    "inactive": "Inactive",
+    "save": "Save",
+    "cancel": "Cancel",
+    "placeholder": {
+      "firstName": "Enter your first name",
+      "lastName": "Enter your last name",
+      "email": "Enter your email",
+      "mobile": "Enter your mobile number",
+      "role": "Role",
+      "password": "Enter your password",
+      "retypePassword": "Retype your password"
+    },
+    "firstNameRequired": "First Name is required",
+    "lastNameRequired": "Last Name is required",
+    "emailRequired": "Email is required",
+    "roleRequired": "Role is required",
+    "invalidEmail": "Email must be a valid email",
+    "profileTabs": {
+      "editProfile": "Edit Profile",
+      "changePassword": "Change Password"
+    },
+    "changePassword": {
+      "changePassword": "Change Password",
+      "oldPassword": "Old Password",
+      "newPassword": "New Password",
+      "confirmPassword": "Confirm Password",
+      "save": "Save",
+      "cancel": "Cancel",
+      "placeholder": {
+        "oldPassword": "Enter your old password",
+        "newPassword": "Enter your new password",
+        "confirmPassword": "Confirm your password"
+      },
+      "oldPasswordRequired": "Old Password is required",
+      "passwordRequired": "Password is required",
+      "confirmPasswordRequired": "Confirm Password is required",
+      "mustContain": "Must Contain 8 Characters, One Uppercase, One Lowercase, and One Number",
+      "mustMatch": "Password must match"
+    }
+  },
+  "usersPage": {
+    "userList": "User List",
+    "addUser": "Add User",
+    "search": "Search",
+    "export": "Export",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "mobile": "Mobile",
+    "status": "Status",
+    "role": "Role",
+    "country": "Country",
+    "enterCountry": "Enter country",
+
+    "placeholder": {
+      "firstName": "Enter first name",
+      "lastName": "Enter last name",
+      "email": "Enter email",
+      "mobile": "Enter mobile number"
+    },
+    "validation": {
+      "invalidEmail": "Email must be a valid email"
+    },
+    "choose": "Choose",
+    "active": "Active",
+    "inactive": "Inactive",
+    "cancel": "Cancel",
+    "reset": "Reset",
+    "validationMessage": "Please enter any query.",
+    "tableColumns": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "e-mail": "E-mail",
+      "mobile": "Mobile",
+      "country": "Country",
+      "role": "Role",
+      "update": "Update",
+      "loginDate": "Login Date",
+      "status": "Status",
+      "action": "Action"
+    },
+    "someThingWrong": "Something Went Wrong"
+  },
+  "addNewUserModle": {
+    "addNewUser": "Add New User",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "e-mail": "E-mail",
+    "country": "Country",
+    "mobile": "Mobile",
+    "password": "Password",
+    "retypePassword": "Re-type Password",
+    "status": "Status",
+    "choose": "Choose",
+    "active": "Active",
+    "inactive": "Inactive",
+    "australia": "Australia",
+    "sweden": "Sweden",
+    "brazil": "Brazil",
+    "china": "China",
+    "united_kingdom": "United Kingdom",
+    "india": "India",
+    "role": "Role",
+    "superAdmin": "Super Admin",
+    "manager": "Manager",
+    "dataEntry": "Data Entry",
+    "dataCollector": "Data Collector",
+    "dataViewer": "Data Viewer",
+    "save": "Save",
+    "cancel": "Cancel",
+    "placeholder": {
+      "firstName": "Enter your first name",
+      "lastName": "Enter your last name",
+      "email": "Enter your email",
+      "country": "Enter your country",
+      "mobile": "Enter your mobile number",
+      "password": "Enter your password",
+      "retypePassword": "Retype your password",
+      "enterCountry": "Enter country"
+    },
+    "editUser": "Edit User",
+    "firstNameRequired": "First Name is required",
+    "lastNameRequired": "Last Name is required",
+    "emailRequired": "Email is required",
+    "roleRequired": "Role is required",
+    "countryRequired": "Country is required",
+    "statusRequired": "Status is required",
+    "invalidEmail": "Email must be a valid email"
+  },
+  "associateCollectionModle": {
+    "associateCollection": "Associate Collection",
+    "form": {
+      "collection": "Collection",
+      "choose": "Choose",
+      "save": "Save",
+      "cancel": "Cancel",
+      "validation": {
+        "collectionRequired": "Collection is Required"
+      },
+      "noCollectionsAvailable": "There is no collection available to associate. You need to first create a collection.",
+      "addNewCollection": "Add new collection"
+    }
+  },
+  "collectionPage": {
+    "collections": "Collections",
+    "addCollection": "Add Collection",
+    "table": {
+      "tableColumns": {
+        "name": "Name",
+        "collaborator": "Collaborator",
+        "startDate": "Start Date",
+        "endDate": "End Date",
+        "status": "Status",
+        "action": "Action",
+        "country": "Country"
+      }
+    },
+    "searchFrom": {
+      "search": "Search",
+      "export": "Export",
+      "name": "Name",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "collaborator": "Collaborator",
+      "status": "Status",
+      "choose": "Choose",
+      "cancel": "Cancel",
+      "reset": "Reset",
+      "active": "Active",
+      "inactive": "Inactive",
+      "country": "Country",
+      "placeholder": {
+        "name": "Enter collection name",
+        "collaborator": "Enter collaborator",
+        "startDate": "Enter start date",
+        "endDate": "Enter end date",
+        "enterCountry": "Enter country"
+      }
+    },
+    "collectionModal": {
+      "addCollection": "Add Collection",
+      "editCollection": "Edit Collection",
+      "form": {
+        "name": "Name",
+        "collaborator": "Collaborator",
+        "startDate": "Start Date",
+        "endDate": "End Date",
+        "status": "Status",
+        "save": "Save",
+        "cancel": "Cancel",
+        "choose": "Choose",
+        "active": "Active",
+        "inactive": "Inactive",
+        "country": "Country",
+        "placeholder": {
+          "name": "Enter name",
+          "collaborator": "Enter collaborator",
+          "startDate": "Enter start date",
+          "endDate": "Enter end date",
+          "enterCountry": "Enter country"
+        },
+        "validation": {
+          "nameRequired": "Name is required",
+          "collaboratorRequired": "Collaborator is required",
+          "startDateRequired": "Start date is required",
+          "endDateRequired": "End date is required",
+          "invalidDate": "End date must be after Start date",
+          "statusRequired": "Status is required",
+          "invalidDateType": "Date must be a number",
+          "countryRequired": "Country is required"
+        }
+      }
+    }
+  },
+  "searchSelectInput": {
+    "noOption": "No option found",
+    "loadMore": "Load More"
+  },
+  "collectionDetailPage": {
+    "myTeam": "My Team",
+    "products": "Products",
+    "viewAll": "View all",
+    "collectionProjectsSec": {
+      "pending": "Pending",
+      "under review": "Under Review",
+      "rejected": "Rejected",
+      "approved": "Approved",
+      "manageYourCollections": "Manage your collections",
+      "goToCollections": "Go to collections"
+    },
+    "collectionMyTeamSec": {
+      "manageTeam": "Manage team"
+    },
+    "collectionSearchSec": {
+      "searchHeading": "Search",
+      "loremIpsum": "Lorem ipsum dolor sit amet consectetur. Duis dictum lobortis tellus et rhoncus et non lorem. Elit id etiam sagittis vehicula ultrices vel morbi amet venenatis.",
+      "search": "Search",
+      "enterKeyword": "Enter keyword"
+    },
+    "collectionProductSec": {
+      "ProductTable": {
+        "tableColumns": {
+          "id": "ID",
+          "gtin": "GTIN",
+          "productName": "Product name",
+          "brand": "Brand",
+          "status": "Status",
+          "action": "Action"
+        }
+      }
+    }
+  },
+  "myTeamManagmentDetailPage": {
+    "myTeam": "My Team",
+    "addUser": "Add User",
+    "myTeamMembersSearchForm": {
+      "search": "Search",
+      "export": "Export",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "mobile": "Mobile",
+      "status": "Status",
+      "role": "Role",
+      "placeholder": {
+        "firstName": "Enter first name",
+        "lastName": "Enter last name",
+        "email": "Enter email",
+        "mobile": "Enter mobile number"
+      },
+      "validation": {
+        "invalidEmail": "Email must be a valid email"
+      },
+      "choose": "Choose",
+      "active": "Active",
+      "inactive": "Inactive",
+      "cancel": "Cancel",
+      "reset": "Reset",
+      "validationMessage": "Please enter any query."
+    },
+    "myTeamMembersListTable": {
+      "tableColumns": {
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "e-mail": "E-mail",
+        "mobile": "Mobile",
+        "country": "Country",
+        "role": "Role",
+        "update": "Update",
+        "loginDate": "Login Date",
+        "status": "Status",
+        "action": "Action"
+      }
+    },
+    "myTeamAddTeamMemberModal": {
+      "addUser": "Add User",
+      "addTeamMemberForm": {
+        "name": "Enter Name",
+        "save": "Save",
+        "cancel": "Cancel",
+        "placeholder": {
+          "name": "Enter user name"
+        },
+        "validation": {
+          "nameRequired": "Name is required"
+        }
+      }
+    }
+  },
+  "exportsPage": {
+    "exportData": "Exported Data",
+    "exportTable": {
+      "tableColumns": {
+        "id": "ID",
+        "userName": "User Name",
+        "status": "Status",
+        "created": "Created",
+        "updated": "Updated",
+        "exportName": "Export Name",
+        "exportType": "Export Type",
+        "download": "Download"
+      },
+      "download": "Download"
+    },
+    "exportSearchFrom": {
+      "search": "Search",
+      "reset": "Reset",
+      "user": "User",
+      "collection": "Collection",
+      "team": "Team",
+      "exportName": "Export Name",
+      "exportType": "Export Type",
+      "status": "Status",
+      "choose": "Choose",
+      "inprogress": "In Progress",
+      "done": "Done",
+      "failed": "Failed",
+      "placeholder": {
+        "userName": "Enter user name",
+        "exportName": "Enter export name"
+      }
+    }
+  },
+  "productsPage": {
+    "productList": "Product list",
+    "addProduct": "Add Product",
+    "productSearchFrom": {
+      "search": "Search",
+      "export": "Export",
+      "reset": "Reset",
+      "productName": "Product name",
+      "gtin": "GTIN",
+      "choose": "Choose",
+      "isLocked": "Is Locked",
+      "locked": "Locked",
+      "unLocked": "Unlocked",
+      "status": "Status",
+      "underReview": "Under Review",
+      "pending": "Pending",
+      "approved": "Approved",
+      "onHold": "On Hold",
+      "problems": "Problems",
+      "rejected": "Rejected",
+      "notAFood": "Not A Food",
+      "deleted": "Deleted",
+      "chooseFields": "Choose fields",
+      "noOption": "No option found",
+      "placeholder": {
+        "productName": "Enter product name",
+        "gtin": "Enter GTIN",
+        "search": "Search here"
+      }
+    },
+    "productAdvanceSearchFrom": {
+      "advanceSearch": "Advance Search",
+      "export": "Export",
+      "reset": "Reset",
+      "search": "Search",
+      "save": "Save",
+      "update": "Update",
+      "searchHere": "Search field",
+      "savedSearches": "Saved Searches",
+      "savedSearchesModal": {
+        "searchHistory": "Search History",
+        "saveSearch": "Save Search",
+        "updateSearch": "Update Search"
+      },
+      "saveSearchForm": {
+        "searchName": "Name",
+        "description": "Description",
+        "save": "Save",
+        "cancel": "Cancel",
+        "placeholder": {
+          "enterName": "Enter search name",
+          "enterDesc": "Enter search description"
+        },
+        "validation": {
+          "nameRequired": "Name is required",
+          "nameSpecialCharactersNotAllowed": "Special characters not allowed"
+        }
+      },
+      "saveSearchTable": {
+        "loadMore": "Load More",
+        "tableColumns": {
+          "name": "Name",
+          "createdAt": "Created At",
+          "action": "Action"
+        }
+      }
+    },
+    "productsTable": {
+      "tableColumns": {
+        "id": "ID",
+        "gtin": "GTIN",
+        "productName": "Product name",
+        "isLocked": "Is Locked",
+        "status": "Status",
+        "action": "Action"
+      }
+    }
+  },
+  "productDetailPage": {
+    "product": "Product",
+    "productHistory": "Product History",
+    "ProductSourceTableSec": {
+      "tableColumns": {
+        "id": "Product ID",
+        "gtin": "GTIN",
+        "status": "Status",
+        "date": "Date collected",
+        "source": "Source"
+      }
+    },
+    "productDetailTabsSec": {
+      "productTabs": {
+        "Product": "Product",
+        "Claim": "Claim",
+        "Ingredients and Allergens": "Ingredients and Allergens",
+        "Nutrients": "Nutrients",
+        "Nutrient Profiling": "Nutrient Profiling",
+        "Backend": "Backend",
+        "Group": "Group",
+        "productTabFields": {
+          "Group Code": "Group Code",
+          "Brand Name": "Brand Name",
+          "Importer/Distributor": "Importer/Distributor",
+          "Manufacturer Name": "Manufacturer Name",
+          "Addon Brand Other": "Addon Brand Other",
+          "Product Name": "Product Name",
+          "Package Size": "Package Size",
+          "Package Unit": "Package Unit",
+          "Addon Multipack value": "Addon Multipack value",
+          "Addon Additional multipack value": "Addon Additional multipack value",
+          "Addon Package Size 2": "Addon Package Size 2",
+          "Addon Package size unit 2": "Addon Package size unit 2",
+          "Addon Presence Low Gi Logo": "Addon Presence Low Gi Logo",
+          "Addon Low GI Glycemic Index": "Addon Low GI Glycemic Index",
+          "Percent Di": "Percent Di",
+          "Presence Vegetarian": "Presence Vegetarian",
+          "Addon Presence of Country of Origin Labelling": "Addon Presence of Country of Origin Labelling",
+          "Addon Type of Country of Origin Labelling": "Addon Type of Country of Origin Labelling",
+          "Addon Percentage Stated On Country Of Origin Label": "Addon Percentage Stated On Country Of Origin Label",
+          "Addon Fssai Fssl Lic No": "Addon Fssai Fssl Lic No",
+          "Addon Presence Fssai": "Addon Presence Fssai",
+          "Date Last Collected": "Date Last Collected",
+          "Addon Made produced imported in country": "Addon Made produced imported in country",
+          "Addon Manufacturer data update date": "Addon Manufacturer data update date",
+          "Addon HSR energy only reported on pack": "Addon HSR energy only reported on pack",
+          "Addon Multiple HSRs reported on pack": "Addon Multiple HSRs reported on pack",
+          "Addon Reported HSR on pack": "Addon Reported HSR on pack",
+          "Addon Presence HSR": "Addon Presence HSR",
+          "Retailer Product code": "Retailer Product code",
+          "Currency": "Currency",
+          "Group Name": "Group Name",
+          "State Label": "State Label",
+          "Addon Other Claims on Pack": "Addon Other Claims on Pack",
+          "Claims on Pack with values": "Claims on Pack with values",
+          "Claims on Pack": "Claims on Pack",
+          "Claims on Pack - Alcohol": "Claims on Pack - Alcohol",
+          "Addon Alcohol location": "Addon Alcohol location",
+
+          "Addon Alcohol %": "Addon Alcohol %",
+          "Addon Standard drinks - location": "Addon Standard drinks - location",
+          "Addon Lot number (alcohol only)": "Addon Lot number (alcohol only)",
+          "Addon Standard Drinks": "Addon Standard Drinks",
+          "Gluten Status": "Gluten Status",
+          "Ingredients": "Ingredientes",
+          "Product Contains allergens": "Product Contains allergens",
+          "Product Contains allergens - Other": "Product Contains allergens - Other",
+          "Product May contain allergens": "Product May contain allergens",
+          "Product May contain allergens - Other": "Product May contain allergens - Other",
+          "User Notes": "User Notes",
+          "Addon Preparation Instructions Other": "Addon Preparation Instructions Other",
+          "Addon Storage type": "Addon Storage type",
+          "Addon Storage type other": "Addon Storage type other",
+          "Nip Type": "Nip Type",
+          "Addon Prepared with water only": "Addon Prepared with water only",
+          "Servings Per Pack": "Servings Per Pack",
+          "Serving Size - As Sold": "Serving Size - As Sold",
+          "Serving Size Unit - As Sold": "Serving Size Unit - As Sold",
+          "Serving Size - As Prepared": "Serving Size - As Prepared",
+          "Serving Size Unit - As Prepared": "Serving Size Unit - As Prepared",
+          "Addon Total carbs display": "Addon Total carbs display",
+          "Health Star Rating": "Health Star Rating",
+          "Health Star Rating Review": "Health Star Rating Review",
+          "NPV Proxy Used": "NPV Proxy Used",
+          "Traffic Lights Label": "Traffic Lights Label",
+          "Planetary Health Rating": "Planetary Health Rating",
+          "Net Carbs": "Net Carbs",
+          "Energy from Net Carbs": "Energy from Net Carbs",
+          "Diabetes Display Label": "Diabetes Display Label",
+          "Added Sugar": "Added Sugar",
+          "Addon FVNL - C1 %": "Addon FVNL - C1 %",
+          "Addon Added Sugar - Estimate": "Addon Added Sugar - Estimate",
+          "Addon Added Sugar - Manufacturer": "Addon Added Sugar - Manufacturer",
+          "Addon Added Sugar - Step": "Addon Added Sugar - Step",
+          "Data Sources": "Data Sources",
+          "Addon Id Retailer": "Addon Id Retailer",
+          "Addon V Points C1": "Addon V Points C1",
+          "Category Labels": "Category Labels",
+          "FVNL %": "FVNL %",
+          "Concentrated FVNL %": "Concentrated FVNL %",
+          "Is Concentrate": "Is Concentrate",
+          "Show in hc": "Show in hc",
+          "V Points": "V Points",
+          "Date Last Modified": "Date Last Modified",
+          "Date Last Status Change": "Date Last Status Change",
+          "Infusion Date": "Infusion Date",
+          "Infusion data source": "Infusion data source"
+        }
+      },
+      "nutrationInfoPanel": {
+        "nutrationPanel": "Nutrition Information Panel",
+        "choose": "Choose",
+        "Category/Group Search": "Category/Group Search",
+        "Enter group name": "Enter group name",
+        "Enter Group Code": "Enter Group Code",
+        "Search": "Search",
+        "Save": "Save",
+        "Cancel": "Cancel",
+        "tableColumns": {
+          "name": "Name",
+          "perGram": "As Sold Per 100g",
+          "perServe": "As Sold Per serve",
+          "preparedGram": "As Prepared 100g",
+          "preparedServe": "As Prepared Serve"
+        }
+      }
+    },
+    "productHistoyModal": {
+      "productHistory": "Product History",
+      "productsHistoryTable": {
+        "tableColumns": {
+          "source": "Product History Source",
+          "date": "Date",
+          "action": "Action"
+        }
+      }
+    }
+  },
+  "settingsPage": {
+    "settingsPage": "Settings Page",
+    "comingSoon": "Coming Soon!",
+    "paragaraph": "This page is under construction!"
+  }
+}

@@ -1,0 +1,707 @@
+{
+  "login": {
+    "login": "登入",
+    "loginForm": "登錄表單",
+    "foodSwitch": "FoodSwitch",
+    "enterYourEmail": "輸入你的電子郵箱",
+    "enterYourPassword": "輸入您的密碼",
+    "forgotYourPassword": "忘記密碼了嗎",
+    "someThingWrong": "出了些問題",
+    "emailRequired": "電子郵件是必需的字段",
+    "invalidEmail": "電子郵件必須是一封有效的電子郵件",
+    "passwordRequired": "密碼是必需的字段"
+  },
+  "forgotPassword": {
+    "foodSwitch": "FoodSwitch",
+    "forgotPassword": "忘記密碼",
+    "enterYourEmail": "輸入你的電子郵箱",
+    "goBackToLogin": "返回登錄",
+    "verify": "核實",
+    "someThingWrong": "出了些問題",
+    "emailRequired": "電子郵件是必需的字段",
+    "invalidEmail": "電子郵件必須是一封有效的電子郵件"
+  },
+  "resetPassword": {
+    "foodSwitch": "FoodSwitch",
+    "resetPassword": "重設密碼",
+    "enterYourPassword": "輸入您的密碼",
+    "confirmYourPassword": "確認你的密碼",
+    "goBackToLogin": "返回登錄",
+    "reset": "重置",
+    "someThingWrong": "出了些問題",
+    "passwordRequired": "密碼是必需的字段",
+    "confirmPasswordRequired": "需要確認密碼",
+    "mustMatch": "密碼必須匹配",
+    "mustContain": "必須包含8個字符，一個大寫，一個小寫和一個數字"
+  },
+  "errorPage": {
+    "someThingWentWrong": "哎呀！出了些問題",
+    "errorHeading": "我們對不便表示抱歉。請再試一次。",
+    "tryAgain": "再試一次"
+  },
+  "sideBar": {
+    "food": "Food",
+    "switch": "Switch",
+    "dashboard": "儀表板",
+    "collections": "收藏",
+    "userManagement": "用戶管理",
+    "users": "用戶",
+    "products": "產品",
+    "exports": "出口",
+    "editProfile": "編輯個人資料",
+    "language": "語言",
+    "settings": "設定",
+    "search": "搜尋",
+    "someThingWrong": "出了些問題",
+    "logout": "登出",
+    "logoutMessage": "成功登記！"
+  },
+  "appBar": {
+    "profile": "輪廓",
+    "logout": "登出",
+    "dashboard": "儀表板",
+    "collections": "收藏",
+    "users": "用戶",
+    "products": "產品",
+    "exports": "出口",
+    "settings": "設定",
+    "search": "搜尋",
+    "logoutMessage": "成功登記！",
+    "someThingWrong": "出了些問題"
+  },
+  "placholders": {
+    "noResultFound": {
+      "heading": "哎呀，沒有數據！",
+      "paragaraph1": "我們找不到任何結果。",
+      "paragaraph2": "再去"
+    },
+    "collectionCountSection": {
+      "manageYourCollections": "管理您的收藏",
+      "yourCollection": "您的收藏已設置並正在等待最終確定"
+    },
+    "myTeamSection": {
+      "startCreating": "開始為您的團隊成員創建用戶帳戶",
+      "manageTeam": "管理團隊"
+    }
+  },
+  "tablePagination": {
+    "showingPage": "顯示頁面",
+    "of": "的",
+    "prev": "上一條",
+    "next": "下一個"
+  },
+  "dashBoard": {
+    "someThingWrong": "出了些問題",
+    "australiaCollection": "澳大利亞系列2023",
+    "manageYourCollection": "管理您的收藏",
+    "yourCollection": "您的收藏已設置並正在等待最終確定",
+    "myTeam": "我的團隊",
+    "startCreating": "開始為您的團隊成員創建用戶帳戶",
+    "manageTeam": "管理團隊",
+    "searchHeading": "搜尋",
+    "loremIpsum": "Lorem ipsum dolor sit amet consectetur. Duis dictum lobortis tellus et rhoncus et non lorem. Elit id etiam sagittis vehicula ultrices vel morbi amet venenatis.",
+    "enterKeyword": "輸入關鍵字",
+    "search": "搜尋",
+    "unprocessed": "未經處理",
+    "review": "審查",
+    "rejected": "拒絕",
+    "approved": "得到正式認可的",
+    "goToCollection": "去收集",
+    "products": "產品",
+    "viewAll": "查看全部"
+  },
+  "popups": {
+    "confirmLogout": "您確定要註銷嗎？",
+    "confirmDeleteMessage": "你確定要刪除這個項目嗎？",
+    "confirm": "確認",
+    "cancel": "取消",
+    "exportName": {
+      "submit": "提交",
+      "cancel": "取消",
+      "name": "姓名",
+      "namePlaceholder": "輸入導出名稱",
+      "confirmExportName": "輸入導出名稱",
+      "validation": {
+        "nameRequired": "需要名稱",
+        "nameSpecialCharactersNotAllowed": "不允許特殊字符"
+      }
+    }
+  },
+  "editProfile": {
+    "editProfile": "編輯個人資料",
+    "firstName": "名",
+    "lastName": "姓",
+    "email": "電子郵件",
+    "mobile": "移動的",
+    "role": "角色",
+    "password": "密碼",
+    "retypePassword": "重新輸入密碼",
+    "status": "地位",
+    "choose": "選擇",
+    "active": "積極的",
+    "inactive": "不活動",
+    "save": "節省",
+    "cancel": "取消",
+    "placeholder": {
+      "firstName": "輸入您的名字",
+      "lastName": "輸入您的姓氏",
+      "email": "輸入你的電子郵箱",
+      "role": "角色",
+      "mobile": "輸入你的手機號碼",
+      "password": "輸入您的密碼",
+      "retypePassword": "重新輸入密碼"
+    },
+    "firstNameRequired": "需要名字",
+    "lastNameRequired": "需要姓氏",
+    "emailRequired": "需要電子郵件",
+    "roleRequired": "需要角色",
+    "invalidEmail": "電子郵件必須是一封有效的電子郵件",
+    "profileTabs": {
+      "editProfile": "編輯個人資料",
+      "changePassword": "更改密碼"
+    },
+    "changePassword": {
+      "changePassword": "更改密碼",
+      "oldPassword": "舊密碼",
+      "newPassword": "新密碼",
+      "confirmPassword": "確認密碼",
+      "save": "節省",
+      "cancel": "取消",
+      "placeholder": {
+        "oldPassword": "輸入您的舊密碼",
+        "newPassword": "輸入新密碼",
+        "confirmPassword": "確認你的密碼"
+      },
+      "oldPasswordRequired": "需要舊密碼",
+      "passwordRequired": "密碼是必需的",
+      "confirmPasswordRequired": "需要確認密碼",
+      "mustMatch": "密碼必須匹配",
+      "mustContain": "必須包含8個字符，一個大寫，一個小寫和一個數字"
+    }
+  },
+  "usersPage": {
+    "userList": "用戶列表",
+    "addUser": "添加用戶",
+    "search": "搜尋",
+    "export": "出口",
+    "firstName": "名",
+    "lastName": "姓",
+    "email": "電子郵件",
+    "mobile": "移動的",
+    "status": "地位",
+    "role": "角色",
+    "country": "國家",
+    "enterCountry": "進入國家",
+    "placeholder": {
+      "firstName": "輸入名字",
+      "lastName": "輸入姓氏",
+      "email": "輸入電子郵件",
+      "mobile": "輸入手機號碼"
+    },
+    "validation": {
+      "invalidEmail": "電子郵件必須是一封有效的電子郵件"
+    },
+    "choose": "選擇",
+    "active": "積極的",
+    "inactive": "不活動",
+    "cancel": "取消",
+    "reset": "重置",
+    "validationMessage": "請輸入任何查詢。",
+    "tableColumns": {
+      "firstName": "名",
+      "lastName": "姓",
+      "e-mail": "電子郵件",
+      "mobile": "移動的",
+      "country": "國家",
+      "role": "角色",
+      "update": "更新",
+      "loginDate": "登錄日期",
+      "status": "地位",
+      "action": "行動"
+    },
+    "someThingWrong": "出了些問題"
+  },
+  "addNewUserModle": {
+    "addNewUser": "添加新用戶",
+    "firstName": "名",
+    "lastName": "姓",
+    "e-mail": "電子郵件",
+    "country": "國家",
+    "mobile": "移動的",
+    "password": "密碼",
+    "retypePassword": "重新輸入密碼",
+    "status": "地位",
+    "choose": "選擇",
+    "active": "積極的",
+    "inactive": "不活動",
+    "australia": "澳大利亞",
+    "sweden": "瑞典",
+    "brazil": "巴西",
+    "china": "中國",
+    "united_kingdom": "英國",
+    "india": "印度",
+    "role": "角色",
+    "superAdmin": "超級管理員",
+    "manager": "主管",
+    "dataEntry": "數據輸入",
+    "dataCollector": "數據收集器",
+    "dataViewer": "數據查看器",
+    "save": "節省",
+    "cancel": "取消",
+    "placeholder": {
+      "firstName": "輸入您的名字",
+      "lastName": "輸入您的姓氏",
+      "email": "輸入你的電子郵箱",
+      "country": "輸入您的國家",
+      "mobile": "輸入你的手機號碼",
+      "password": "輸入您的密碼",
+      "retypePassword": "重新輸入密碼",
+      "enterCountry": "進入國家"
+    },
+    "editUser": "編輯用戶",
+    "firstNameRequired": "需要名字",
+    "lastNameRequired": "需要姓氏",
+    "emailRequired": "需要電子郵件",
+    "roleRequired": "需要角色",
+    "invalidEmail": "電子郵件必須是一封有效的電子郵件",
+    "countryRequired": "需要國家",
+    "statusRequired": "需要狀態"
+  },
+  "associateCollectionModle": {
+    "associateCollection": "副收藏",
+    "form": {
+      "collection": "收藏",
+      "choose": "選擇",
+      "save": "節省",
+      "cancel": "取消",
+      "validation": {
+        "collectionRequired": "需要收集"
+      },
+      "noCollectionsAvailable": "沒有可用的收集。您需要首先創建一個集合。",
+      "addNewCollection": "添加新系列"
+    }
+  },
+  "collectionPage": {
+    "collections": "收藏",
+    "export": "出口",
+    "addCollection": "添加集合",
+    "table": {
+      "tableColumns": {
+        "name": "姓名",
+        "collaborator": "合作者",
+        "startDate": "開始日期",
+        "endDate": "結束日期",
+        "status": "地位",
+        "action": "行動",
+        "country": "País"
+      }
+    },
+    "searchFrom": {
+      "search": "搜尋",
+      "export": "出口",
+      "name": "姓名",
+      "collaborator": "合作者",
+      "startDate": "開始日期",
+      "endDate": "結束日期",
+      "status": "地位",
+      "choose": "選擇",
+      "cancel": "取消",
+      "reset": "重置",
+      "active": "積極的",
+      "inactive": "不活動",
+      "country": "國家",
+
+      "placeholder": {
+        "name": "輸入集合名稱",
+        "collaborator": "輸入合作者",
+        "startDate": "輸入開始日期",
+        "endDate": "輸入結束日期",
+        "enterCountry": "進入國家"
+      }
+    },
+    "collectionModal": {
+      "addCollection": "添加集合",
+      "editCollection": "編輯集合",
+      "form": {
+        "name": "姓名",
+        "collaborator": "合作者",
+        "startDate": "開始日期",
+        "endDate": "結束日期",
+        "status": "地位",
+        "save": "節省",
+        "cancel": "取消",
+        "choose": "選擇",
+        "active": "積極的",
+        "inactive": "不活動",
+        "country": "國家",
+        "placeholder": {
+          "name": "輸入名字",
+          "collaborator": "輸入合作者",
+          "startDate": "輸入開始日期",
+          "endDate": "輸入結束日期",
+          "enterCountry": "進入國家"
+        },
+        "validation": {
+          "nameRequired": "需要名稱",
+          "collaboratorRequired": "需要合作者",
+          "startDateRequired": "需要開始日期",
+          "endDateRequired": "需要結束日期",
+          "invalidDate": "結束日期必須在開始日期之後",
+          "statusRequired": "需要狀態",
+          "invalidDateType": "日期必須是一個數字",
+          "countryRequired": "需要國家"
+        }
+      }
+    }
+  },
+  "searchSelectInput": {
+    "noOption": "找不到選項",
+    "loadMore": "裝載更多"
+  },
+  "collectionDetailPage": {
+    "myTeam": "我的團隊",
+    "products": "產品",
+    "viewAll": "查看全部",
+    "collectionProjectsSec": {
+      "pending": "待辦的",
+      "under review": "審查",
+      "rejected": "拒絕",
+      "approved": "得到正式認可的",
+      "manageYourCollections": "管理您的收藏",
+      "goToCollections": "去收藏"
+    },
+    "collectionMyTeamSec": {
+      "manageTeam": "管理團隊"
+    },
+    "collectionSearchSec": {
+      "searchHeading": "搜尋",
+      "loremIpsum": "Lorem ipsum dolor sit amet consectetur. Duis dictum lobortis tellus et rhoncus et non lorem. Elit id etiam sagittis vehicula ultrices vel morbi amet venenatis.",
+      "search": "搜尋",
+      "enterKeyword": "輸入關鍵字"
+    },
+    "collectionProductSec": {
+      "ProductTable": {
+        "tableColumns": {
+          "id": "ID",
+          "gtin": "GTIN",
+          "productName": "產品名稱",
+          "brand": "品牌",
+          "status": "地位",
+          "action": "行動"
+        }
+      }
+    }
+  },
+  "myTeamManagmentDetailPage": {
+    "myTeam": "我的團隊",
+    "addUser": "添加用戶",
+    "myTeamMembersSearchForm": {
+      "search": "搜尋",
+      "export": "出口",
+      "firstName": "名",
+      "lastName": "姓",
+      "email": "電子郵件",
+      "mobile": "移動的",
+      "status": "地位",
+      "role": "角色",
+      "placeholder": {
+        "firstName": "輸入名字",
+        "lastName": "輸入姓氏",
+        "email": "輸入電子郵件",
+        "mobile": "輸入手機號碼"
+      },
+      "validation": {
+        "invalidEmail": "電子郵件必須是一封有效的電子郵件"
+      },
+      "choose": "選擇",
+      "active": "積極的",
+      "inactive": "不活動",
+      "cancel": "取消",
+      "reset": "重置",
+      "validationMessage": "請輸入任何查詢。"
+    },
+    "myTeamMembersListTable": {
+      "tableColumns": {
+        "firstName": "名",
+        "lastName": "姓",
+        "e-mail": "電子郵件",
+        "mobile": "移動的",
+        "country": "國家",
+        "role": "角色",
+        "update": "更新",
+        "loginDate": "登錄日期",
+        "status": "地位",
+        "action": "行動"
+      }
+    },
+    "myTeamAddTeamMemberModal": {
+      "addUser": "添加用戶",
+      "addTeamMemberForm": {
+        "name": "輸入名字",
+        "save": "節省",
+        "cancel": "取消",
+        "placeholder": {
+          "name": "輸入用戶名"
+        },
+        "validation": {
+          "nameRequired": "需要名稱"
+        }
+      }
+    }
+  },
+  "exportsPage": {
+    "exportData": "導出數據",
+    "exportTable": {
+      "tableColumns": {
+        "id": "ID",
+        "userName": "使用者名稱",
+        "status": "地位",
+        "created": "創建",
+        "updated": "更新",
+        "exportName": "導出名稱",
+        "exportType": "導出類型",
+        "download": "下載"
+      },
+      "download": "下載"
+    },
+    "exportSearchFrom": {
+      "search": "搜尋",
+      "reset": "重置",
+      "user": "用戶",
+      "collection": "收藏",
+      "team": "團隊",
+      "exportName": "導出名稱",
+      "exportType": "導出類型",
+      "status": "地位",
+      "choose": "選擇",
+      "inprogress": "進行中",
+      "done": "完畢",
+      "failed": "失敗的",
+      "placeholder": {
+        "userName": "輸入用戶名",
+        "exportName": "輸入導出名稱"
+      }
+    }
+  },
+  "productsPage": {
+    "productList": "產品列表",
+    "addProduct": "添加產品",
+    "productSearchFrom": {
+      "search": "搜尋",
+      "export": "出口",
+      "reset": "重置",
+      "productName": "產品名稱",
+      "gtin": "GTIN",
+      "choose": "選擇",
+      "isLocked": "被鎖住了",
+      "locked": "鎖定",
+      "unLocked": "解鎖",
+      "status": "地位",
+      "underReview": "審查",
+      "pending": "待辦的",
+      "approved": "得到正式認可的",
+      "onHold": "等候接聽",
+      "problems": "問題",
+      "rejected": "拒絕",
+      "notAFood": "不是食物",
+      "deleted": "刪除",
+      "chooseFields": "選擇字段",
+      "noOption": "找不到選項",
+      "placeholder": {
+        "productName": "輸入產品名稱",
+        "gtin": "輸入gtin",
+        "search": "在這裡搜索"
+      }
+    },
+    "productAdvanceSearchFrom": {
+      "advanceSearch": "提前搜索",
+      "export": "出口",
+      "reset": "重置",
+      "search": "搜尋",
+      "save": "節省",
+      "update": "更新",
+      "searchHere": "搜索字段",
+      "savedSearches": "保存的搜索",
+      "savedSearchesModal": {
+        "searchHistory": "搜索歷史記錄",
+        "saveSearch": "保存搜索",
+        "updateSearch": "更新搜索"
+      },
+      "saveSearchForm": {
+        "searchName": "姓名",
+        "description": "描述",
+        "save": "節省",
+        "cancel": "取消",
+        "placeholder": {
+          "enterName": "輸入搜索名稱",
+          "enterDesc": "輸入搜索說明"
+        },
+        "validation": {
+          "nameRequired": "需要名稱",
+          "nameSpecialCharactersNotAllowed": "不允許特殊字符"
+        }
+      },
+      "saveSearchTable": {
+        "loadMore": "裝載更多",
+        "tableColumns": {
+          "name": "姓名",
+          "createdAt": "創建在",
+          "action": "行動"
+        }
+      }
+    },
+    "productsTable": {
+      "tableColumns": {
+        "id": "ID",
+        "gtin": "GTIN",
+        "productName": "產品名稱",
+        "isLocked": "被鎖住了",
+        "status": "地位",
+        "action": "行動"
+      }
+    }
+  },
+  "productDetailPage": {
+    "product": "產品",
+    "productHistory": "產品歷史",
+    "ProductSourceTableSec": {
+      "tableColumns": {
+        "id": "產品ID",
+        "gtin": "GTIN",
+        "status": "地位",
+        "date": "收集日期",
+        "source": "來源"
+      }
+    },
+    "productDetailTabsSec": {
+      "productTabs": {
+        "Product": "產品",
+        "Claim": "宣稱",
+        "Ingredients and Allergens": "成分和過敏原",
+        "Nutrients": "營養",
+        "Nutrient Profiling": "營養分析",
+        "Backend": "後端",
+        "Group": "團體",
+        "productTabFields": {
+          "Group Code": "組代碼",
+          "Brand Name": "品牌",
+          "Importer/Distributor": "進口商/分銷商",
+          "Manufacturer Name": "生產商名稱",
+          "Addon Brand Other": "其他品牌其他",
+          "Product Name": "產品名稱",
+          "Package Size": "包裝尺寸",
+          "Package Unit": "包裝單元",
+          "Addon Multipack value": "插件多包值",
+          "Addon Additional multipack value": "插件附加多包值",
+          "Addon Package Size 2": "插件軟件包尺寸2",
+          "Addon Package size unit 2": "插件包裝尺寸單元2",
+          "Addon Presence Low Gi Logo": "插件存在低GI徽標",
+          "Addon Low GI Glycemic Index": "插件低胃腸道高血糖指數",
+          "Percent Di": "DI％",
+          "Presence Vegetarian": "存在素食",
+          "Addon Presence of Country of Origin Labelling": "原產國的插件存在",
+          "Addon Type of Country of Origin Labelling": "插件類型的原產國標籤",
+          "Addon Percentage Stated On Country Of Origin Label": "原產國標籤上規定的插件百分比",
+          "Addon Fssai Fssl Lic No": "addon fssai fssl lic no",
+          "Addon Presence Fssai": "插件存在FSSAI",
+          "Date Last Collected": "最後收集的日期",
+          "Addon Made produced imported in country": "插件製造在國家進口",
+          "Addon Manufacturer data update date": "插件製造商數據更新日期",
+          "Addon HSR energy only reported on pack": "僅在包裝上報導的插件HSR能量",
+          "Addon Multiple HSRs reported on pack": "插件多個HSR在包裝上報告",
+          "Addon Reported HSR on pack": "Addon在包裝上報告了HSR",
+          "Addon Presence HSR": "插件存在HSR",
+          "Retailer Product code": "零售商產品代碼",
+          "Currency": "貨幣",
+          "Group Name": "團隊名字",
+          "State Label": "狀態標籤",
+          "Addon Other Claims on Pack": "添加其他主張",
+          "Claims on Pack with values": "包裝索賠",
+          "Claims on Pack": "索賠",
+          "Claims on Pack - Alcohol": "背包索賠 - 酒精",
+          "Addon Alcohol location": "附加酒精位置",
+          "Addon Alcohol %": "輔助酒精％",
+          "Addon Standard drinks - location": "插件標準飲料 - 位置",
+          "Addon Lot number (alcohol only)": "插件批號（僅酒精）",
+          "Addon Standard Drinks": "插件標準飲料",
+          "Gluten Status": "麵筋狀態",
+          "Ingredients": "原料",
+          "Product Contains allergens": "產品含有過敏原",
+          "Product Contains allergens - Other": "產品含有過敏原 - 其他",
+          "Product May contain allergens": "產品可能包含過敏原",
+          "Product May contain allergens - Other": "產品可能包含過敏原 - 其他",
+          "User Notes": "用戶筆記",
+          "Addon Preparation Instructions Other": "插件準備指示其他",
+          "Addon Storage type": "插件存儲類型",
+          "Addon Storage type other": "插件存儲類型其他",
+          "Nip Type": "NIP類型",
+          "Addon Prepared with water only": "僅用水準備的插件",
+          "Servings Per Pack": "每包份",
+          "Serving Size - As Sold": "服務尺寸 - 出售",
+          "Serving Size Unit - As Sold": "服務尺寸單位 - 出售",
+          "Serving Size - As Prepared": "服務尺寸 - 準備",
+          "Serving Size Unit - As Prepared": "服務尺寸單位 - 準備",
+          "Addon Total carbs display": "插件總碳水化合物顯示",
+          "Health Star Rating": "健康星評級",
+          "Health Star Rating Review": "健康之星評價",
+          "NPV Proxy Used": "NPV代理使用",
+          "Traffic Lights Label": "交通信號燈標籤",
+          "Planetary Health Rating": "行星健康等級",
+          "Net Carbs": "淨碳水化合物",
+          "Energy from Net Carbs": "淨碳水化合物的能量",
+          "Diabetes Display Label": "糖尿病顯示標籤",
+          "Added Sugar": "添加了糖",
+          "Addon FVNL - C1 %": "addon fvnl- c1％",
+          "Addon Added Sugar - Estimate": "添加糖 - 估計",
+          "Addon Added Sugar - Manufacturer": "添加糖 - 製造商",
+          "Addon Added Sugar - Step": "添加糖 - 步驟",
+          "Data Sources": "數據源",
+          "Addon Id Retailer": "插件ID零售商",
+          "Addon V Points C1": "插件v點C1",
+          "Category Labels": "類別標籤",
+          "FVNL %": "fvnl％",
+          "Concentrated FVNL %": "濃縮FVNL％",
+          "Is Concentrate": "是濃縮物",
+          "Show in hc": "在HC中展示",
+          "V Points": "V點",
+          "Date Last Modified": "最後修改的日期",
+          "Date Last Status Change": "日期的最後狀態更改",
+          "Infusion Date": "輸液日期",
+          "Infusion data source": "輸注數據源"
+        }
+      },
+      "nutrationInfoPanel": {
+        "nutrationPanel": "營養信息面板",
+        "Category/Group Search": "類別/組搜索",
+        "Enter group name": "輸入組名稱",
+        "Enter Group Code": "輸入組代碼",
+        "Search": "搜尋",
+        "Save": "節省",
+        "Cancel": "取消",
+        "choose": "選擇",
+        "tableColumns": {
+          "name": "姓名",
+          "perGram": "按照每100克出售",
+          "perServe": "作為每份出售",
+          "preparedGram": "作為100克準備的",
+          "preparedServe": "作為準備的服務"
+        }
+      }
+    },
+    "productHistoyModal": {
+      "productHistory": "產品歷史",
+      "productsHistoryTable": {
+        "tableColumns": {
+          "source": "產品歷史來源",
+          "date": "日期",
+          "action": "行動"
+        }
+      }
+    }
+  },
+  "settingsPage": {
+    "settingsPage": "設置頁面",
+    "comingSoon": "即將推出！",
+    "paragaraph": "本頁面正在建設中！"
+  }
+}

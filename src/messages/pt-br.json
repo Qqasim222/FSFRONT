@@ -1,0 +1,707 @@
+{
+  "login": {
+    "login": "Conecte-se",
+    "loginForm": "Forma de login",
+    "foodSwitch": "FoodSwitch",
+    "enterYourEmail": "Digite seu e-mail",
+    "enterYourPassword": "Coloque sua senha",
+    "forgotYourPassword": "Esqueceu sua senha",
+    "someThingWrong": "Algo deu errado",
+    "emailRequired": "O email é um campo necessário",
+    "invalidEmail": "O email deve ser um e -mail válido",
+    "passwordRequired": "Senha é um campo obrigatório"
+  },
+  "forgotPassword": {
+    "foodSwitch": "FoodSwitch",
+    "forgotPassword": "Esqueceu sua senha",
+    "enterYourEmail": "Digite seu e-mail",
+    "goBackToLogin": "Volte para o login",
+    "verify": "Verificar",
+    "someThingWrong": "Algo deu errado",
+    "emailRequired": "O email é um campo necessário",
+    "invalidEmail": "O email deve ser um e -mail válido"
+  },
+  "resetPassword": {
+    "foodSwitch": "FoodSwitch",
+    "resetPassword": "Redefinir Senha",
+    "enterYourPassword": "Coloque sua senha",
+    "confirmYourPassword": "Confirme sua senha",
+    "goBackToLogin": "Volte para o login",
+    "reset": "Reiniciar",
+    "someThingWrong": "Algo deu errado",
+    "passwordRequired": "Senha é um campo obrigatório",
+    "confirmPasswordRequired": "Confirmar a senha é necessária",
+    "mustMatch": "A senha deve corresponder",
+    "mustContain": "Deve conter 8 caracteres, uma maiúsculas, uma minúscula e um número"
+  },
+  "errorPage": {
+    "someThingWentWrong": "Opa! Algo deu errado",
+    "errorHeading": "Pedimos desculpas pela inconveniência. Por favor, tente novamente.",
+    "tryAgain": "Tente novamente"
+  },
+  "sideBar": {
+    "food": "Food",
+    "switch": "Switch",
+    "dashboard": "Painel",
+    "collections": "Coleções",
+    "userManagement": "Gerenciamento de usuários",
+    "users": "Usuários",
+    "products": "Produtos",
+    "exports": "Exportações",
+    "editProfile": "Editar Perfil",
+    "language": "Linguagem",
+    "settings": "Configurações",
+    "search": "Procurar",
+    "someThingWrong": "Algo deu errado",
+    "logout": "Sair",
+    "logoutMessage": "Registrado com sucesso!"
+  },
+  "appBar": {
+    "profile": "Perfil",
+    "logout": "Sair",
+    "dashboard": "Painel",
+    "collections": "Coleções",
+    "users": "Usuários",
+    "products": "Produtos",
+    "exports": "Exportações",
+    "settings": "Configurações",
+    "search": "Procurar",
+    "logoutMessage": "Registrado com sucesso!",
+    "someThingWrong": "Algo deu errado"
+  },
+  "placholders": {
+    "noResultFound": {
+      "heading": "Opa, sem dados!",
+      "paragaraph1": "Não conseguimos encontrar nenhum resultado.",
+      "paragaraph2": "Dê outra vez"
+    },
+    "collectionCountSection": {
+      "manageYourCollections": "Gerencie suas coleções",
+      "yourCollection": "Sua coleção foi configurada e está esperando para ser finalizada"
+    },
+    "myTeamSection": {
+      "startCreating": "Comece a criar uma conta de usuário para os membros da sua equipe",
+      "manageTeam": "Gerenciar equipe"
+    }
+  },
+  "tablePagination": {
+    "showingPage": "Mostrando página",
+    "of": "de",
+    "prev": "Anterior",
+    "next": "Próximo"
+  },
+  "dashBoard": {
+    "someThingWrong": "Coleção da Austrália 2023",
+    "australiaCollection": "Coleção Austrália 2023",
+    "manageYourCollection": "Gerencie sua coleção",
+    "yourCollection": "Sua coleção foi configurada e está esperando para ser finalizada",
+    "myTeam": "Meu time",
+    "startCreating": "Comece a criar uma conta de usuário para os membros da sua equipe",
+    "manageTeam": "Gerenciar equipe",
+    "searchHeading": "Procurar",
+    "loremIpsum": "Lorem ipsum dolor sit amet consectetur. Duis dictum lobortis tellus et rhoncus et non lorem. Elit id etiam sagittis vehicula ultrices vel morbi amet venenatis.",
+    "enterKeyword": "Digite palavras -chave",
+    "search": "Procurar",
+    "unprocessed": "Não processado",
+    "review": "Análise",
+    "rejected": "Rejeitado",
+    "approved": "Aprovado",
+    "goToCollection": "Vá para a coleção",
+    "products": "Produtos",
+    "viewAll": "Ver tudo"
+  },
+  "popups": {
+    "confirmLogout": "Tem certeza que deseja sair?",
+    "confirmDeleteMessage": "Tem certeza de que deseja excluir este item?",
+    "confirm": "confirme",
+    "cancel": "Cancelar",
+    "exportName": {
+      "submit": "Enviar",
+      "cancel": "Cancelar",
+      "name": "Nome",
+      "namePlaceholder": "Insira o nome da exportação",
+      "confirmExportName": "Insira o nome da exportação",
+      "validation": {
+        "nameRequired": "O nome é necessário",
+        "nameSpecialCharactersNotAllowed": "Personagens especiais não permitidos"
+      }
+    }
+  },
+  "editProfile": {
+    "editProfile": "Editar Perfil",
+    "firstName": "Primeiro nome",
+    "lastName": "Sobrenome",
+    "email": "E-mail",
+    "mobile": "Móvel",
+    "role": "Papel",
+    "password": "Senha",
+    "retypePassword": "Digite novamente a senha",
+    "status": "Status",
+    "choose": "Escolher",
+    "active": "Ativo",
+    "inactive": "Inativo",
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "placeholder": {
+      "firstName": "Digite seu primeiro nome",
+      "lastName": "Digite seu sobrenome",
+      "email": "Digite seu e-mail",
+      "mobile": "Digite seu número de celular",
+      "role": "Papel",
+      "password": "Coloque sua senha",
+      "retypePassword": "Digite novamente sua senha"
+    },
+    "firstNameRequired": "O primeiro nome é necessário",
+    "lastNameRequired": "O sobrenome é necessário",
+    "emailRequired": "O email é necessário",
+    "roleRequired": "Função é necessária",
+    "invalidEmail": "O email deve ser um e -mail válido",
+    "profileTabs": {
+      "editProfile": "Editar Perfil",
+      "changePassword": "Alterar a senha"
+    },
+    "changePassword": {
+      "changePassword": "Alterar a senha",
+      "oldPassword": "Senha Antiga",
+      "newPassword": "Nova Senha",
+      "confirmPassword": "Confirme sua senha",
+      "save": "Salvar",
+      "cancel": "Cancelar",
+      "placeholder": {
+        "oldPassword": "Digite sua senha antiga",
+        "newPassword": "Digite sua nova senha",
+        "confirmPassword": "Confirme sua senha"
+      },
+      "oldPasswordRequired": "A senha antiga é necessária",
+      "passwordRequired": "Senha requerida",
+      "confirmPasswordRequired": "Confirmar a senha é necessária",
+      "mustMatch": "A senha deve corresponder",
+      "mustContain": "Deve conter 8 caracteres, uma maiúsculas, uma minúscula e um número"
+    }
+  },
+  "usersPage": {
+    "userList": "Lista de usuários",
+    "addUser": "Adicionar usuário",
+    "search": "Procurar",
+    "export": "Exportar",
+    "firstName": "Primeiro nome",
+    "lastName": "Sobrenome",
+    "email": "E-mail",
+    "mobile": "Móvel",
+    "status": "Status",
+    "role": "Papel",
+    "country": "País",
+    "enterCountry": "Entrar no país",
+    "placeholder": {
+      "firstName": "Introduza o primeiro nome",
+      "lastName": "Insira o último nome",
+      "email": "Digite email",
+      "mobile": "Digite o número do celular"
+    },
+    "validation": {
+      "invalidEmail": "O email deve ser um e -mail válido"
+    },
+    "choose": "Escolher",
+    "active": "Ativo",
+    "inactive": "Inativo",
+    "cancel": "Cancelar",
+    "reset": "Reiniciar",
+    "validationMessage": "Por favor, insira qualquer consulta.",
+    "tableColumns": {
+      "firstName": "Primeiro nome",
+      "lastName": "Sobrenome",
+      "e-mail": "E-mail",
+      "mobile": "Móvel",
+      "country": "País",
+      "role": "Papel",
+      "update": "Atualizar",
+      "loginDate": "Data de login",
+      "status": "Status",
+      "action": "Ação"
+    },
+    "someThingWrong": "Algo deu errado"
+  },
+  "addNewUserModle": {
+    "addNewUser": "Adicionar novo usuário",
+    "firstName": "Primeiro nome",
+    "lastName": "Sobrenome",
+    "e-mail": "E-mail",
+    "mobile": "Móvel",
+    "country": "País",
+    "password": "Senha",
+    "retypePassword": "Digite novamente a senha",
+    "status": "Status",
+    "choose": "Escolher",
+    "active": "Ativo",
+    "inactive": "Inativo",
+    "australia": "Austrália",
+    "sweden": "Suécia",
+    "brazil": "Brasil",
+    "china": "China",
+    "united_kingdom": "Reino Unido",
+    "india": "Índia",
+    "role": "Papel",
+    "superAdmin": "Super Admin",
+    "manager": "Gerente",
+    "dataEntry": "Coletor de dados",
+    "dataCollector": "Coletor de Dados",
+    "dataViewer": "Visualizador de dados",
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "placeholder": {
+      "firstName": "Digite seu primeiro nome",
+      "lastName": "Digite seu sobrenome",
+      "email": "Digite seu e-mail",
+      "country": "Entre no seu país",
+      "mobile": "Digite seu número de celular",
+      "password": "Coloque sua senha",
+      "retypePassword": "Digite novamente sua senha",
+      "enterCountry": "Entrar no país"
+    },
+    "editUser": "Editar Usuário",
+    "firstNameRequired": "O primeiro nome é necessário",
+    "lastNameRequired": "O sobrenome é necessário",
+    "emailRequired": "O email é necessário",
+    "roleRequired": "Função é necessária",
+    "invalidEmail": "O email deve ser um e -mail válido",
+    "countryRequired": "O país é necessário",
+    "statusRequired": "O status é necessário"
+  },
+  "associateCollectionModle": {
+    "associateCollection": "Coleção Associada",
+    "form": {
+      "collection": "Coleção",
+      "choose": "Escolher",
+      "save": "Salvar",
+      "cancel": "Cancelar",
+      "validation": {
+        "collectionRequired": "A coleção é necessária"
+      },
+      "noCollectionsAvailable": "Não há coleção disponível para associar. Você precisa primeiro criar uma coleção.",
+      "addNewCollection": "Adicione nova coleção"
+    }
+  },
+  "collectionPage": {
+    "collections": "Coleções",
+    "addCollection": "Adicione a coleção",
+    "table": {
+      "tableColumns": {
+        "name": "Nome",
+        "collaborator": "Colaborador",
+        "startDate": "Data de início",
+        "endDate": "Data final",
+        "status": "Status",
+        "action": "Ação",
+        "country": "País"
+      }
+    },
+    "searchFrom": {
+      "search": "Procurar",
+      "export": "Exportar",
+      "name": "Nome",
+      "startDate": "Data de início",
+      "endDate": "Data final",
+      "collaborator": "Colaborador",
+      "status": "Status",
+      "choose": "Escolher",
+      "cancel": "Cancelar",
+      "reset": "Reiniciar",
+      "active": "Ativo",
+      "inactive": "Inativo",
+      "country": "País",
+
+      "placeholder": {
+        "name": "Digite o nome da coleção",
+        "collaborator": "Digite o colaborador",
+        "startDate": "Digite a data de início",
+        "endDate": "Insira a data final",
+        "enterCountry": "Entrar no país"
+      }
+    },
+    "collectionModal": {
+      "addCollection": "Adicione a coleção",
+      "editCollection": "Editar coleção",
+      "form": {
+        "name": "Nome",
+        "collaborator": "Colaborador",
+        "startDate": "Data de início",
+        "endDate": "Data final",
+        "status": "Status",
+        "save": "Salvar",
+        "cancel": "Cancelar",
+        "choose": "Escolher",
+        "active": "Ativo",
+        "inactive": "Inativo",
+        "country": "País",
+
+        "placeholder": {
+          "name": "Insira o nome",
+          "collaborator": "Digite o colaborador",
+          "startDate": "Digite a data de início",
+          "endDate": "Insira a data final",
+          "enterCountry": "Entrar no país"
+        },
+        "validation": {
+          "nameRequired": "O nome é necessário",
+          "collaboratorRequired": "É necessário colaborador",
+          "startDateRequired": "A data de início é necessária",
+          "endDateRequired": "A data de término é necessária",
+          "invalidDate": "A data de término deve ser após a data de início",
+          "statusRequired": "O status é necessário",
+          "invalidDateType": "A data deve ser um número",
+          "countryRequired": "O país é necessário"
+        }
+      }
+    }
+  },
+  "searchSelectInput": {
+    "noOption": "Nenhuma opção encontrada",
+    "loadMore": "Carregue mais"
+  },
+  "collectionDetailPage": {
+    "myTeam": "Meu time",
+    "products": "Produtos",
+    "viewAll": "Ver tudo",
+    "collectionProjectsSec": {
+      "pending": "Pendente",
+      "under review": "Sob revisão",
+      "rejected": "Rejeitado",
+      "approved": "Aprovado",
+      "manageYourCollections": "Gerencie suas coleções",
+      "goToCollections": "Vá para coleções"
+    },
+    "collectionMyTeamSec": {
+      "manageTeam": "Gerenciar equipe"
+    },
+    "collectionSearchSec": {
+      "searchHeading": "Procurar",
+      "loremIpsum": "Lorem ipsum dolor sit amet consectetur. Duis dictum lobortis tellus et rhoncus et non lorem. Elit id etiam sagittis vehicula ultrices vel morbi amet venenatis.",
+      "search": "Procurar",
+      "enterKeyword": "Digite palavras -chave"
+    },
+    "collectionProductSec": {
+      "ProductTable": {
+        "tableColumns": {
+          "id": "EU IA",
+          "gtin": "GTIN",
+          "productName": "Nome do Produto",
+          "brand": "Marca",
+          "status": "Status",
+          "action": "Ação"
+        }
+      }
+    }
+  },
+  "myTeamManagmentDetailPage": {
+    "myTeam": "Meu time",
+    "addUser": "Adicionar usuário",
+    "myTeamMembersSearchForm": {
+      "search": "Procurar",
+      "export": "Exportar",
+      "firstName": "Primeiro nome",
+      "lastName": "Sobrenome",
+      "email": "E-mail",
+      "mobile": "Móvel",
+      "status": "Status",
+      "role": "Papel",
+      "placeholder": {
+        "firstName": "Introduza o primeiro nome",
+        "lastName": "Insira o último nome",
+        "email": "Digite email",
+        "mobile": "Digite o número do celular"
+      },
+      "validation": {
+        "invalidEmail": "O email deve ser um e -mail válido"
+      },
+      "choose": "Escolher",
+      "active": "Ativo",
+      "inactive": "Inativo",
+      "cancel": "Cancelar",
+      "reset": "Reiniciar",
+      "validationMessage": "Por favor, insira qualquer consulta."
+    },
+    "myTeamMembersListTable": {
+      "tableColumns": {
+        "firstName": "Primeiro nome",
+        "lastName": "Sobrenome",
+        "e-mail": "E-mail",
+        "mobile": "Móvel",
+        "country": "País",
+        "role": "Papel",
+        "update": "Atualizar",
+        "loginDate": "Data de login",
+        "status": "Status",
+        "action": "Ação"
+      }
+    },
+    "myTeamAddTeamMemberModal": {
+      "addUser": "Adicionar usuário",
+      "addTeamMemberForm": {
+        "name": "Insira o nome",
+        "save": "Salvar",
+        "cancel": "Cancelar",
+        "placeholder": {
+          "name": "Insira nome de usuário"
+        },
+        "validation": {
+          "nameRequired": "O nome é necessário"
+        }
+      }
+    }
+  },
+  "exportsPage": {
+    "exportData": "Dados exportados",
+    "exportTable": {
+      "tableColumns": {
+        "id": "EU IA",
+        "userName": "Nome de usuário",
+        "status": "Status",
+        "created": "Criada",
+        "updated": "Atualizada",
+        "exportName": "Nome da exportação",
+        "exportType": "Tipo de exportação",
+        "download": "Download"
+      },
+      "download": "Download"
+    },
+    "exportSearchFrom": {
+      "search": "Procurar",
+      "reset": "Reiniciar",
+      "user": "Do utilizador",
+      "collection": "Coleção",
+      "team": "Equipe",
+      "exportName": "Nome da exportação",
+      "exportType": "Tipo de exportação",
+      "status": "Status",
+      "choose": "Escolher",
+      "inprogress": "Em andamento",
+      "done": "Feito",
+      "failed": "Fracassado",
+      "placeholder": {
+        "userName": "Insira nome de usuário",
+        "exportName": "Insira o nome da exportação"
+      }
+    }
+  },
+  "productsPage": {
+    "productList": "Lista de produtos",
+    "addProduct": "Adicione o produto",
+    "productSearchFrom": {
+      "search": "Procurar",
+      "export": "Exportar",
+      "reset": "Reiniciar",
+      "productName": "Nome do Produto",
+      "gtin": "GTIN",
+      "choose": "Escolher",
+      "isLocked": "Está bloqueado",
+      "locked": "Trancado",
+      "unLocked": "Desbloqueado",
+      "status": "Status",
+      "underReview": "Sob revisão",
+      "pending": "Pendente",
+      "approved": "Aprovado",
+      "onHold": "Em espera",
+      "problems": "Problemas",
+      "rejected": "Rejeitado",
+      "notAFood": "Não é um alimento",
+      "deleted": "Excluído",
+      "chooseFields": "Escolha os campos",
+      "noOption": "Nenhuma opção encontrada",
+      "placeholder": {
+        "productName": "Digite o nome do produto",
+        "gtin": "Digite GTIN",
+        "search": "Procure aqui"
+      }
+    },
+    "productAdvanceSearchFrom": {
+      "advanceSearch": "Pesquisa avançada",
+      "export": "Exportar",
+      "reset": "Reiniciar",
+      "search": "Procurar",
+      "save": "Salvar",
+      "update": "Atualizar",
+      "searchHere": "Campo de pesquisa",
+      "savedSearches": "Pesquisas salvas",
+      "savedSearchesModal": {
+        "searchHistory": "Histórico de busca",
+        "saveSearch": "Salvar busca",
+        "updateSearch": "Atualizar pesquisa"
+      },
+      "saveSearchForm": {
+        "searchName": "Nome",
+        "description": "Descrição",
+        "save": "Salvar",
+        "cancel": "Cancelar",
+        "placeholder": {
+          "enterName": "Digite o nome da pesquisa",
+          "enterDesc": "Digite a descrição da pesquisa"
+        },
+        "validation": {
+          "nameRequired": "O nome é necessário",
+          "nameSpecialCharactersNotAllowed": "Personagens especiais não permitidos"
+        }
+      },
+      "saveSearchTable": {
+        "loadMore": "Carregue mais",
+        "tableColumns": {
+          "name": "Nome",
+          "createdAt": "Criado em",
+          "action": "Ação"
+        }
+      }
+    },
+    "productsTable": {
+      "tableColumns": {
+        "id": "EU IA",
+        "gtin": "GTIN",
+        "productName": "Nome do Produto",
+        "isLocked": "Está bloqueado",
+        "status": "Status",
+        "action": "Ação"
+      }
+    }
+  },
+  "productDetailPage": {
+    "product": "produtos",
+    "productHistory": "História do produto",
+    "ProductSourceTableSec": {
+      "tableColumns": {
+        "id": "ID do produto",
+        "gtin": "GTIN",
+        "status": "Status",
+        "date": "Data coletada",
+        "source": "Fonte"
+      }
+    },
+    "productDetailTabsSec": {
+      "productTabs": {
+        "Product": "produtos",
+        "Claim": "Alegar",
+        "Ingredients and Allergens": "Ingredientes e alérgenos",
+        "Nutrients": "Nutrientes",
+        "Nutrient Profiling": "Perfil de nutrientes",
+        "Backend": "Processo interno",
+        "Group": "Grupo",
+        "productTabFields": {
+          "Group Code": "Código de grupo",
+          "Brand Name": "Marca",
+          "Importer/Distributor": "Importador/distribuidor",
+          "Manufacturer Name": "Nome do fabricante",
+          "Addon Brand Other": "ADDON Brand Outro",
+          "Product Name": "Nome do Produto",
+          "Package Size": "tamanho do pacote",
+          "Package Unit": "Unidade de pacote",
+          "Addon Multipack value": "Valor multipack de addon",
+          "Addon Additional multipack value": "Addon Valor Multipack adicional",
+          "Addon Package Size 2": "Pacote addon tamanho 2",
+          "Addon Package size unit 2": "Addon Package Tamanho da unidade 2",
+          "Addon Presence Low Gi Logo": "Presença de addon Logo Logo GI",
+          "Addon Low GI Glycemic Index": "Índice glicêmico com baixo gi GI",
+          "Percent Di": "Percentual di",
+          "Presence Vegetarian": "Presença vegetariana",
+          "Addon Presence of Country of Origin Labelling": "Presença de addon de rotulagem de país de origem",
+          "Addon Type of Country of Origin Labelling": "Tipo de addon de rotulagem de país de origem",
+          "Addon Percentage Stated On Country Of Origin Label": "A porcentagem de addon declarou na etiqueta do país de origem",
+          "Addon Fssai Fssl Lic No": "Addon fssai fsslic não",
+          "Addon Presence Fssai": "Presença de addon fssai",
+          "Date Last Collected": "Data pela última vez coletada",
+          "Addon Made produced imported in country": "Addon feito produzido importado no país",
+          "Addon Manufacturer data update date": "Data de atualização de dados do fabricante do addon",
+          "Addon HSR energy only reported on pack": "Addon HSR Energy relatou apenas no pacote",
+          "Addon Multiple HSRs reported on pack": "Addon múltiplos HSRs relatados no pacote",
+          "Addon Reported HSR on pack": "Addon relatou o HSR no pacote",
+          "Addon Presence HSR": "Presença de addon hsr",
+          "Retailer Product code": "Código do produto do varejista",
+          "Currency": "Moeda",
+          "Group Name": "Nome do grupo",
+          "State Label": "Rótulo do estado",
+          "Addon Other Claims on Pack": "Addon outras reivindicações no pacote",
+          "Claims on Pack with values": "Reivindicações no pacote com valores",
+          "Claims on Pack": "Reivindicações no pacote",
+          "Claims on Pack - Alcohol": "Reivindicações no pacote - álcool",
+          "Addon Alcohol location": "Localização do Addon Alcool",
+          "Addon Alcohol %": "Addon álcool %",
+          "Addon Standard drinks - location": "Addon Standard Drinks - Localização",
+          "Addon Lot number (alcohol only)": "Número do lote addon (somente álcool)",
+          "Addon Standard Drinks": "Addon Standard Drinks",
+          "Gluten Status": "Status de glúten",
+          "Ingredients": "Ingredientes",
+          "Product Contains allergens": "O produto contém alérgenos",
+          "Product Contains allergens - Other": "Produto contém alérgenos - outros",
+          "Product May contain allergens": "O produto pode conter alérgenos",
+          "Product May contain allergens - Other": "O produto pode conter alérgenos - outros",
+          "User Notes": "Notas do usuário",
+          "Addon Preparation Instructions Other": "Instruções de preparação para addon Outro",
+          "Addon Storage type": "Tipo de armazenamento de addon",
+          "Addon Storage type other": "Addon Storage Type Other",
+          "Nip Type": "Tipo de Nip",
+          "Addon Prepared with water only": "Addon preparado apenas com água",
+          "Servings Per Pack": "Porções por pacote",
+          "Serving Size - As Sold": "Tamanho da porção - conforme vendido",
+          "Serving Size Unit - As Sold": "Unidade de tamanho de porção - conforme vendido",
+          "Serving Size - As Prepared": "Tamanho da porção - conforme preparado",
+          "Serving Size Unit - As Prepared": "Unidade de tamanho de porção - conforme preparado",
+          "Addon Total carbs display": "Display de carboidratos totais de addon",
+          "Health Star Rating": "Classificação de estrelas da saúde",
+          "Health Star Rating Review": "Revisão de classificação de estrelas da saúde",
+          "NPV Proxy Used": "Proxy de NPV usado",
+          "Traffic Lights Label": "Etiqueta dos semáforos",
+          "Planetary Health Rating": "Classificação de saúde planetária",
+          "Net Carbs": "Carboidratos líquidos",
+          "Energy from Net Carbs": "Energia de carboidratos líquidos",
+          "Diabetes Display Label": "Rótulo de exibição de diabetes",
+          "Added Sugar": "Adicionado açúcar",
+          "Addon FVNL - C1 %": "Addon fvnl - c1 %",
+          "Addon Added Sugar - Estimate": "Addon Adicionado Sugar - Estimativa",
+          "Addon Added Sugar - Manufacturer": "Addon Adicionado Sugar - Fabricante",
+          "Addon Added Sugar - Step": "Addon Adicionado Sugar - Etapa",
+          "Data Sources": "Fontes de dados",
+          "Addon Id Retailer": "Varejista de ID da Addon",
+          "Addon V Points C1": "Addon V Pontos C1",
+          "Category Labels": "Etiquetas de categoria",
+          "FVNL %": "Fvnl %",
+          "Concentrated FVNL %": "FVNL concentrado %",
+          "Is Concentrate": "Está concentrado",
+          "Show in hc": "Mostrar em HC",
+          "V Points": "V pontos",
+          "Date Last Modified": "Data Última modificada",
+          "Date Last Status Change": "Data Last Status Alteração",
+          "Infusion Date": "Data de infusão",
+          "Infusion data source": "Fonte de dados de infusão"
+        }
+      },
+      "nutrationInfoPanel": {
+        "nutrationPanel": "Painel de informações nutricionais",
+        "Category/Group Search": "Pesquisa de categoria/grupo",
+        "Enter group name": "Digite o nome do grupo",
+        "Enter Group Code": "Digite o código do grupo",
+        "Search": "Procurar",
+        "Save": "Salvar",
+        "Cancel": "Cancelar",
+        "choose": "Escolher",
+        "tableColumns": {
+          "name": "Nome",
+          "perGram": "Conforme vendido por 100g",
+          "perServe": "Conforme vendido por saque",
+          "preparedGram": "Conforme vendido por saque",
+          "preparedServe": "Como servir preparado"
+        }
+      }
+    },
+    "productHistoyModal": {
+      "productHistory": "História do produto",
+      "productsHistoryTable": {
+        "tableColumns": {
+          "source": "Fonte do histórico do produto",
+          "date": "Data",
+          "action": "Ação"
+        }
+      }
+    }
+  },
+  "settingsPage": {
+    "settingsPage": "Página de configurações",
+    "comingSoon": "Em breve!",
+    "paragaraph": "Esta página está em construção!"
+  }
+}
